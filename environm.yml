@@ -1,8 +1,0 @@
-dependencies:
-  - python=3
-  - pip:
-      - scipy
-      - numpy
-      - pandas
-      - matplotlib
-      - ipykernel
